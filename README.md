@@ -1,3 +1,3 @@
 # Sara-Zakaria Web Site
-A personal website or project named after the developer. Specific details about its content and purpose are not provided in the repository
+A personal web project designed as a digital identity platform. The website highlights key skills, professional background, and portfolio projects, built with modern web development practices.
 https://15720022sasa.github.io/Sara-Zakaria/ 
